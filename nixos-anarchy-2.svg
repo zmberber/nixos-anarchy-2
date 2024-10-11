@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="143.92271mm"
-   height="198.75687mm"
-   viewBox="0 -5 711.78104 986.93049"
+   width="136.03053mm"
+   height="197.61385mm"
+   viewBox="0 -5 672.74964 981.25476"
    id="svg2"
    version="1.1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
-   sodipodi:docname="nixos-text-below.svg"
+   sodipodi:docname="nixos-anarchy-2.svg"
    inkscape:export-filename="/Users/wmertens/Desktop/nixos-text-below.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -142,16 +142,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.61598765"
-     inkscape:cx="444.81411"
-     inkscape:cy="347.40956"
+     inkscape:zoom="1.2319753"
+     inkscape:cx="334.42229"
+     inkscape:cy="291.40195"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="648"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="1080"
+     inkscape:window-y="840"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      fit-margin-top="0"
@@ -177,7 +177,7 @@
      id="layer5"
      inkscape:label="guide"
      style="display:none;opacity:0.516"
-     transform="matrix(0.62033955,0,0,1.4127351,-184.49362,1630.8418)"
+     transform="matrix(0.62033955,0,0,1.4127351,-203.82351,1625.1661)"
      sodipodi:insensitive="true">
     <rect
        y="-957.77832"
@@ -208,7 +208,7 @@
      id="layer6"
      inkscape:label="logo-guide"
      style="display:none"
-     transform="translate(-51.711493,1235.5332)"
+     transform="translate(-71.041388,1229.8575)"
      sodipodi:insensitive="true">
     <g
        id="g2135">
@@ -246,7 +246,7 @@
      id="g37"
      inkscape:label="circle"
      style="display:inline"
-     transform="translate(80.870707,277.49297)">
+     transform="translate(61.540817,271.81731)">
     <path
        style="display:none;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:21.0207;stroke-opacity:1"
        d="m 319.42298,154.50757 -97.82713,6.08936 -44.10561,87.19119 53.53756,81.873 z"
@@ -317,7 +317,7 @@
      inkscape:groupmode="layer"
      id="g32"
      style="display:inline"
-     transform="translate(-51.711493,1235.5332)">
+     transform="translate(-71.041388,1229.8575)">
     <g
        id="g27"
        transform="translate(12.257989)"
@@ -455,7 +455,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-51.711493,1235.5332)">
+     transform="translate(-71.041388,1229.8575)">
     <g
        id="g2106"
        transform="translate(12.257989)">
@@ -592,7 +592,7 @@
      id="layer3"
      inkscape:label="gradient-logo"
      style="display:inline;opacity:1"
-     transform="translate(-51.711493,1235.5332)">
+     transform="translate(-71.041388,1229.8575)">
     <g
        id="g2097"
        transform="translate(0.57942423)">
@@ -663,7 +663,7 @@
      inkscape:label="text-vegur"
      id="g5329"
      inkscape:groupmode="layer"
-     transform="translate(-51.711493,1235.5332)">
+     transform="translate(-71.041388,1229.8575)">
     <g
        id="g11451"
        transform="matrix(0.73707048,0,0,0.73707048,97.458104,-98.956597)">
@@ -716,23 +716,23 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="text"
-     transform="translate(80.870707,277.49297)">
+     transform="translate(61.540817,271.81731)">
     <text
        xml:space="preserve"
-       transform="matrix(2.4347586,0,0,2.4347586,93.366635,659.34604)"
+       transform="matrix(2.4347586,0,0,2.4347586,152.17878,662.02625)"
        id="text4"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64.7519px;font-family:Vegur;-inkscape-font-specification:'Vegur, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect5);display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;stroke-opacity:1"
        inkscape:label="text4"><tspan
          x="-48.779297"
-         y="-341.37472"
-         id="tspan1">ABOLISH</tspan></text>
+         y="-341.05096"
+         id="tspan3">SMASH</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(1.8411793,0,0,1.8411793,7.1048025,573.30631)"
+       transform="matrix(1.8411793,0,0,1.8411793,28.552483,573.14868)"
        id="text5"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.6273px;font-family:Vegur;-inkscape-font-specification:'Vegur, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect6);display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;stroke-opacity:1"><tspan
          x="-48.779297"
-         y="-322.79561"
-         id="tspan2">THE STATE</tspan></text>
+         y="-322.36748"
+         id="tspan4">THE STATE</tspan></text>
   </g>
 </svg>
